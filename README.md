@@ -1,3 +1,3 @@
-# 相信自己
-  1. 明白自己一定可以
-  2. 天将降大任于斯人也,必先苦其心志劳其筋骨,饿其体肤,空乏其身,行拂乱其所为,所以动心忍性增益其所不能
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text={TITLE}&fontSize=90&fontAlign=50&fontAlignY=30&desc={SUB_TITLE}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+</p>
